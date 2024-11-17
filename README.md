@@ -1,3 +1,5 @@
+This is the open data fork of DKAN. Future changes may or not be necessary.
+
 # DKAN
 [DKAN](https://dkan.readthedocs.io/en/latest) - An Open Data Catalog built on [Drupal 9/10](https://www.drupal.org/documentation)
 
